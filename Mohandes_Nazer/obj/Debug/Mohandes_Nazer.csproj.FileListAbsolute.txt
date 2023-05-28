@@ -1,0 +1,14 @@
+C:\Users\gheir\source\repos\Mohandes_Nazer\Mohandes_Nazer\bin\Debug\Database1.mdf
+C:\Users\gheir\source\repos\Mohandes_Nazer\Mohandes_Nazer\bin\Debug\Database1_log.ldf
+C:\Users\gheir\source\repos\Mohandes_Nazer\Mohandes_Nazer\bin\Debug\Mohandes_Nazer.exe.config
+C:\Users\gheir\source\repos\Mohandes_Nazer\Mohandes_Nazer\bin\Debug\Mohandes_Nazer.exe
+C:\Users\gheir\source\repos\Mohandes_Nazer\Mohandes_Nazer\bin\Debug\Mohandes_Nazer.pdb
+C:\Users\gheir\source\repos\Mohandes_Nazer\Mohandes_Nazer\obj\Debug\Mohandes_Nazer.csprojAssemblyReference.cache
+C:\Users\gheir\source\repos\Mohandes_Nazer\Mohandes_Nazer\obj\Debug\Mohandes_Nazer.Form1.resources
+C:\Users\gheir\source\repos\Mohandes_Nazer\Mohandes_Nazer\obj\Debug\Mohandes_Nazer.Properties.Resources.resources
+C:\Users\gheir\source\repos\Mohandes_Nazer\Mohandes_Nazer\obj\Debug\Mohandes_Nazer.csproj.GenerateResource.cache
+C:\Users\gheir\source\repos\Mohandes_Nazer\Mohandes_Nazer\obj\Debug\Mohandes_Nazer.csproj.CoreCompileInputs.cache
+C:\Users\gheir\source\repos\Mohandes_Nazer\Mohandes_Nazer\obj\Debug\Mohandes_Nazer.exe
+C:\Users\gheir\source\repos\Mohandes_Nazer\Mohandes_Nazer\obj\Debug\Mohandes_Nazer.pdb
+C:\Users\gheir\source\repos\Mohandes_Nazer\Mohandes_Nazer\obj\Debug\Mohandes_Nazer.Landing.resources
+C:\Users\gheir\source\repos\Mohandes_Nazer\Mohandes_Nazer\obj\Debug\Mohandes_Nazer.Customers.resources
